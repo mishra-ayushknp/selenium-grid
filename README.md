@@ -3,7 +3,7 @@
 - This repo contains example code of running test scripts  using Selenium Grid for *LambdaTest E-Commerce Playground*.
 
 
-By default, tests would be running on LambdaTest Platform Chrome browser
+By default, tests would be running on LambdaTest Platform on Chrome browser
 
 ## :writing_hand: Blog Link
 
